@@ -1,14 +1,14 @@
-Business Name: The Dog Spa
+Business Name: Modern Coffee House
 
 Industry:
-Professional Dog Grooming Salon
+Coffee Shop
 
 Style:
 Modern Minimalist
 
 Requirements:
-- Dog outline
-- Soap bubbles
-- Calm
-- Premium
-- Trustworthy
+Coffee cup icon
+Warm colors
+Premium
+Simple
+Flat vector
