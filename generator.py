@@ -11,39 +11,29 @@ client = genai.Client(
 with open("clients/client.txt", "r", encoding="utf-8") as f:
     client_brief = f.read()
 
-# Create prompt
+# Create structured prompt
 prompt = f"""
-### # Industry
+You are a senior brand identity designer.
 
-Professional Dog Grooming & Pet Spa
+Read the client brief and generate a professional logo design brief in the exact format below:
 
-### # Brand Strategy
+# Company Name
+# Industry
+# Brand Strategy
+# Logo Style
+# Color Palette
+# Typography
+# Detailed AI Logo Prompt
+# Negative Prompt
 
-Calm • Trusted • Professional • Premium • Modern
-
-### # Logo Style
-
-Minimalist monoline dog silhouette with subtle bubbles, clean vector
-
-### # Color Palette
-
-Teal, Soft Blue, Sage Green, Charcoal, White
-
-### # Typography
-
-Modern geometric sans-serif (Avenir, Gotham, Manrope, or Montserrat)
-
-### # Detailed AI Logo Prompt
-
-**Modern minimalist vector logo for "The Dog Spa", elegant monoline dog silhouette with subtle soap bubbles, clean geometric lines, Scandinavian + Swiss design, calm, trustworthy, professional pet grooming brand, premium yet approachable, teal and soft blue palette with charcoal typography, flat vector, balanced composition, negative space, timeless, scalable, white background.**
-
-### # Negative Prompt
-
-**cartoon, mascot, bathtub, paw badge, clipart, cute puppy, realistic dog, 3D, gradient, shadow, neon, vintage, grunge, ornate, handwritten font, cluttered, low quality, watermark, mockup, photo**
-
+Rules:
+- Keep tone professional and premium
+- Focus on Fortune 500 level branding
+- Ensure logo is minimalist, scalable, and suitable for industrial/civil engineering sector
+- Avoid generic design clichés
+- Ensure suitability for embroidery, PPE, vehicles, and government use
 
 Client Brief:
-
 {client_brief}
 """
 
@@ -58,7 +48,7 @@ os.makedirs("prompts", exist_ok=True)
 
 # Save markdown file
 today = date.today().isoformat()
-filename = f"prompts/{today}.md"
+filename = f"prompts/{today}_thermabond.md"
 
 with open(filename, "w", encoding="utf-8") as f:
     f.write(response.text)
