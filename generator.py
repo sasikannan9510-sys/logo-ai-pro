@@ -11,29 +11,117 @@ client = genai.Client(
 with open("clients/client.txt", "r", encoding="utf-8") as f:
     client_brief = f.read()
 
-# Create structured prompt
+# Create prompt
 prompt = f"""
-You are a senior brand identity designer.
+You are a Senior UI/UX Designer and Creative Director specializing in premium website design.
 
-Read the client brief and generate a professional logo design brief in the exact format below:
+Read the following client brief and generate a comprehensive professional Homepage Design Prompt.
+
+The output must be structured exactly using the headings below.
 
 # Company Name
+
 # Industry
-# Brand Strategy
-# Logo Style
+
+# Website Purpose
+
+# Target Audience
+
+# Brand Personality
+
+# Design Direction
+
+# Visual Identity
+
 # Color Palette
+
 # Typography
-# Detailed AI Logo Prompt
+
+# Layout Structure
+
+Include:
+- Header / Navigation
+- Hero Section
+- Feature Sections
+- Content Sections
+- Call-to-Action
+- Footer
+
+# Grid System
+
+# Spacing System
+
+# Components
+
+Include recommendations for:
+- Buttons
+- Cards
+- Forms
+- Icons
+- Dividers
+
+# Imagery Style
+
+Describe the recommended illustration, photography, or abstract visual style.
+
+# Interaction & Animation
+
+Describe subtle hover effects, transitions, and micro-interactions.
+
+# Mobile Responsive Design
+
+Explain how the desktop layout should adapt to mobile.
+
+# Design System
+
+Include:
+- Typography Scale
+- Color Tokens
+- Spacing Scale
+- Border Radius
+- Shadows
+- Component Variants
+
+# Detailed AI Homepage Design Prompt
+
+Write one extremely detailed AI prompt suitable for generating a premium homepage design in tools such as Midjourney, GPT Image, Flux, Ideogram, or other AI design models.
+
+The prompt should emphasize:
+
+- Architectural
+- Modern
+- Premium
+- Enterprise
+- Typography-driven
+- Swiss Grid
+- Editorial Layout
+- Large White Space
+- Timeless Design
+- Professional UI
+- Pixel-perfect Layout
+- Responsive Design
+- Minimal Visual Language
+- Clean Information Hierarchy
+
 # Negative Prompt
 
-Rules:
-- Keep tone professional and premium
-- Focus on Fortune 500 level branding
-- Ensure logo is minimalist, scalable, and suitable for industrial/civil engineering sector
-- Avoid generic design clichés
-- Ensure suitability for embroidery, PPE, vehicles, and government use
+Include everything that should be avoided, including:
+
+- Generic SaaS landing pages
+- AI robots
+- Cryptocurrency style
+- Neon gradients
+- Marketing agency layouts
+- Dashboard-heavy interfaces
+- Excessive glassmorphism
+- Busy backgrounds
+- Stock AI imagery
+- Cartoon illustrations
+- Low-quality typography
+- Visual clutter
 
 Client Brief:
+
 {client_brief}
 """
 
@@ -48,7 +136,7 @@ os.makedirs("prompts", exist_ok=True)
 
 # Save markdown file
 today = date.today().isoformat()
-filename = f"prompts/{today}_thermabond.md"
+filename = f"prompts/{today}.md"
 
 with open(filename, "w", encoding="utf-8") as f:
     f.write(response.text)
