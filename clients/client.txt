@@ -1,65 +1,58 @@
-Based on the design brief, here is a concise creative brief suitable for an AI logo generator or professional designer.
+Project: Thermabond
 
-**Business Name:**
-**Thermabond**
+Type: Premium B2B Engineering Website
 
-**Industry:**
-Pavement Maintenance Technology • Asphalt Repair • Civil Infrastructure • Road Maintenance • Engineering Services
+Industry:
+Pavement Maintenance • Asphalt Repair • Civil Infrastructure
 
-**Style:**
+Style:
+Architectural Modernism • Swiss Grid • Editorial • Minimal • Typography First
 
-* Premium corporate wordmark
-* Fortune 500 aesthetic
-* Modern minimalist
-* Swiss-inspired typography
-* Engineering precision
-* Bold, clean, geometric
-* Timeless
-* Professional
-* Industrial elegance
-* High-end B2B branding
+Brand:
+Premium • Corporate • Engineering Precision • Reliable • Modern • Timeless
 
-**Requirements:**
+Colors:
+Navy #1A1A2E
+Orange #FF5722
+Amber #FFC107
+White #FFFFFF
 
-* Design a distinctive premium wordmark or combination mark for **Thermabond**.
-* Typography should carry most of the visual identity.
-* Include only one subtle, ownable design element if needed.
-* Convey engineering excellence, durability, precision, innovation, and trust.
-* Suitable for government councils, civil contractors, infrastructure companies, and international manufacturing partners.
-* Flat vector design only.
-* No gradients.
-* No shadows.
-* No bevels.
-* No 3D effects.
-* No road icons.
-* No asphalt rollers.
-* No road cones.
-* No tarmac textures.
-* No generic construction symbols.
-* Strong readability at favicon size.
-* Must reproduce perfectly in embroidery and PPE.
-* Thick, clean shapes suitable for stitching.
-* Strong performance in one-color applications.
-* Highly scalable from business cards to vehicle graphics.
-* Memorable and trademark-friendly.
+Typography:
+Neue Haas Grotesk / DM Sans / Avenir / Gotham
 
-**Preferred Color Palette**
+Layout:
+12-Column Grid
+8pt Spacing
+Large White Space
+Responsive
 
-* Navy — **#1A1A2E**
-* Amber — **#FFC107**
-* Flame Orange — **#FF5722**
-* White
+Sections:
+Header
+Hero
+Features
+Technology
+Projects
+About
+CTA
+Footer
 
-**Typography**
+CTA:
+Request a Demo
 
-* Modern geometric sans-serif
-* Similar character to DM Sans, Neue Haas Grotesk, Avenir, or Gotham
-* Custom refined letter spacing
-* Strong visual balance
-* Premium corporate feel
+UI:
+Clean
+Pixel Perfect
+Minimal
+Professional
+Accessible
 
-**Keywords**
-Engineering • Infrastructure • Heat • Bond • Precision • Reliability • Innovation • Strength • Professional • Minimal • Modern • Corporate • Industrial • Durable • Trusted • Technical • Premium • Clean • Timeless • Distinctive
-
-This brief is optimized for generating a logo that feels comparable in quality to leading global engineering and infrastructure brands while remaining unique and practical for real-world applications.
-
+Avoid:
+Generic SaaS
+AI Robots
+Glassmorphism
+Heavy Shadows
+3D
+Neon
+Road Icons
+Road Cones
+Clutter 
