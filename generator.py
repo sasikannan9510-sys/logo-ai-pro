@@ -8,14 +8,16 @@ client = genai.Client(
 )
 
 # Read client brief
-with open("clients/client.txt", "r", encoding="utf-8") as f:
+with open("clients/thermabond.txt", "r", encoding="utf-8") as f:
     client_brief = f.read()
 
-# Create structured prompt
+# Create prompt
 prompt = f"""
 You are a senior brand identity designer.
 
-Read the client brief and generate a professional logo design brief in the exact format below:
+Read the following client brief and generate a professional logo design prompt.
+
+Include:
 
 # Company Name
 # Industry
@@ -26,14 +28,8 @@ Read the client brief and generate a professional logo design brief in the exact
 # Detailed AI Logo Prompt
 # Negative Prompt
 
-Rules:
-- Keep tone professional and premium
-- Focus on Fortune 500 level branding
-- Ensure logo is minimalist, scalable, and suitable for industrial/civil engineering sector
-- Avoid generic design clichés
-- Ensure suitability for embroidery, PPE, vehicles, and government use
-
 Client Brief:
+
 {client_brief}
 """
 
