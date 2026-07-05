@@ -1,14 +1,65 @@
-Business Name: Modern Coffee House
+Based on the design brief, here is a concise creative brief suitable for an AI logo generator or professional designer.
 
-Industry:
-Coffee Shop
+**Business Name:**
+**Thermabond**
 
-Style:
-Modern Minimalist
+**Industry:**
+Pavement Maintenance Technology • Asphalt Repair • Civil Infrastructure • Road Maintenance • Engineering Services
 
-Requirements:
-Coffee cup icon
-Warm colors
-Premium
-Simple
-Flat vector
+**Style:**
+
+* Premium corporate wordmark
+* Fortune 500 aesthetic
+* Modern minimalist
+* Swiss-inspired typography
+* Engineering precision
+* Bold, clean, geometric
+* Timeless
+* Professional
+* Industrial elegance
+* High-end B2B branding
+
+**Requirements:**
+
+* Design a distinctive premium wordmark or combination mark for **Thermabond**.
+* Typography should carry most of the visual identity.
+* Include only one subtle, ownable design element if needed.
+* Convey engineering excellence, durability, precision, innovation, and trust.
+* Suitable for government councils, civil contractors, infrastructure companies, and international manufacturing partners.
+* Flat vector design only.
+* No gradients.
+* No shadows.
+* No bevels.
+* No 3D effects.
+* No road icons.
+* No asphalt rollers.
+* No road cones.
+* No tarmac textures.
+* No generic construction symbols.
+* Strong readability at favicon size.
+* Must reproduce perfectly in embroidery and PPE.
+* Thick, clean shapes suitable for stitching.
+* Strong performance in one-color applications.
+* Highly scalable from business cards to vehicle graphics.
+* Memorable and trademark-friendly.
+
+**Preferred Color Palette**
+
+* Navy — **#1A1A2E**
+* Amber — **#FFC107**
+* Flame Orange — **#FF5722**
+* White
+
+**Typography**
+
+* Modern geometric sans-serif
+* Similar character to DM Sans, Neue Haas Grotesk, Avenir, or Gotham
+* Custom refined letter spacing
+* Strong visual balance
+* Premium corporate feel
+
+**Keywords**
+Engineering • Infrastructure • Heat • Bond • Precision • Reliability • Innovation • Strength • Professional • Minimal • Modern • Corporate • Industrial • Durable • Trusted • Technical • Premium • Clean • Timeless • Distinctive
+
+This brief is optimized for generating a logo that feels comparable in quality to leading global engineering and infrastructure brands while remaining unique and practical for real-world applications.
+
