@@ -1,59 +1,6 @@
+[Brand Name] + [Industry] + [Core Values] + [Style] + [Colours] + [Typography] + [Icon Idea] + [Avoid] + [Deliverables]
 
-Project: Thermabond
+Example:
 
-Type: Premium B2B Engineering Website
+Islamic Tarbiyah Association + Educational & Community Organisation + Growth, Care, Values, Trust + Modern, Clean, Professional + Navy, Gold, Teal + Elegant Typography + Subtle Education/Community Symbol + Avoid Mosque/Crescent/3D + Flat 2D Horizontal, Stacked & Icon Versions
 
-Industry:
-Pavement Maintenance • Asphalt Repair • Civil Infrastructure
-
-Style:
-Architectural Modernism • Swiss Grid • Editorial • Minimal • Typography First
-
-Brand:
-Premium • Corporate • Engineering Precision • Reliable • Modern • Timeless
-
-Colors:
-Navy #1A1A2E
-Orange #FF5722
-Amber #FFC107
-White #FFFFFF
-
-Typography:
-Neue Haas Grotesk / DM Sans / Avenir / Gotham
-
-Layout:
-12-Column Grid
-8pt Spacing
-Large White Space
-Responsive
-
-Sections:
-Header
-Hero
-Features
-Technology
-Projects
-About
-CTA
-Footer
-
-CTA:
-Request a Demo
-
-UI:
-Clean
-Pixel Perfect
-Minimal
-Professional
-Accessible
-
-Avoid:
-Generic SaaS
-AI Robots
-Glassmorphism
-Heavy Shadows
-3D
-Neon
-Road Icons
-Road Cones
-Clutter 
