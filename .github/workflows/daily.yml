@@ -8,6 +8,8 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v4
@@ -26,3 +28,9 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           python generator.py
+
+      - name: Commit generated prompts
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "Add daily logo prompts"
+          file_pattern: "prompts/*.md"
