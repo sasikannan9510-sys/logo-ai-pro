@@ -1,18 +1,28 @@
+from google import genai
 import os
-from groq import Groq
 
-client = Groq(
-    api_key=os.getenv("GROQ_API_KEY")
+client = genai.Client(
+    api_key=os.environ["GEMINI_API_KEY"]
 )
 
-response = client.chat.completions.create(
-    model="llama-3.3-70b-versatile",
-    messages=[
-        {
-            "role": "user",
-            "content": "Generate 5 modern Swiss-style logo design prompts."
-        }
-    ]
+prompt = """
+Act as a senior logo designer.
+
+Generate 10 modern logo design prompts.
+
+For each prompt include:
+- Company name
+- Industry
+- Style
+- Color palette
+- Typography
+- Detailed AI image prompt
+- Negative prompt
+"""
+
+response = client.models.generate_content(
+    model="gemini-2.5-flash",
+    contents=prompt,
 )
 
-print(response.choices[0].message.content)
+print(response.text)
