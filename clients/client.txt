@@ -1,17 +1,12 @@
-**Premium AI Logo Prompt (Short Format)**
-
-**Company Name:** CANVASBOARD
-**Industry:** Premium Art Surfaces / Fine Art Materials
-**Target Audience:** Professional artists, painters, art students, hobbyists, creative studios, galleries
-**Style:** Premium Minimalism, Swiss Typography, Heritage Craftsmanship, Editorial, Timeless
-**Colors:** Deep Black, Warm White, Charcoal Gray (optional subtle bronze accent)
-**Symbol:** None — Wordmark Only
-**Typography:** Custom-crafted geometric sans-serif with refined spacing, subtle letter customization, perfect kerning, balanced proportions, premium logotype (not a standard font)
-**Feeling:** Smooth, Precise, Durable, Professional, Trustworthy, Premium, Creative, Refined
-**Background:** Clean white or transparent
-**Restrictions:** No icons, no symbols, no graphics, no script fonts, no decorative elements, no gradients, no shadows, no eco motifs, no textures, flat vector only
-
-### **AI Prompt (FLUX.1 / SDXL / Midjourney)**
-
-**Design an award-winning premium wordmark logo for "CANVASBOARD", a high-end art board brand. Create a custom typography-only identity with elegant geometric letterforms, flawless kerning, subtle bespoke character modifications, Swiss minimalism, editorial precision, timeless craftsmanship, balanced proportions, and luxurious simplicity. The logotype should communicate smoothness, durability, precision, and professional artistic quality while remaining restrained and memorable. Flat vector style, black and white master version with optional monochrome charcoal variation, transparent background, scalable branding, Fortune 500 quality, no icons, no symbols, no decorative graphics, no gradients, no shadows, no textures, no mockups, ultra-clean, premium, modern, globally recognizable.**
+**Company Name:** B-SHIFT
+**Industry:** DJ • Early Rave & Classic Hardcore (Vinyl)
+**Target Audience:** Underground rave fans, hardcore & gabber community, festival organizers, vinyl collectors, club promoters.
+**Style:** Industrial, mechanical, raw, aggressive, futuristic 90s rave, minimalist Swiss precision, bold geometric branding.
+**Colors:** Black, White, Neon Acid Green (or Neon Orange).
+**Symbol:** Integrated forward arrows (>>), gear-shift element, angular motion lines, subtle industrial geometry, negative space.
+**Typography:** Custom bold condensed geometric sans-serif, italic/slanted, sharp edges, premium kerning, strong visual balance.
+**Feeling:** Powerful, energetic, underground, rebellious, fast, mechanical, authentic, timeless.
+**Background:** Transparent or solid black.
+**Restrictions:** No headphones, vinyl records, equalizers, speakers, microphones, music notes, flames, gradients, shadows, mockups, 3D effects, clipart, AI clichés, or stock icons. Flat vector only.
+**Output:** Award-winning premium wordmark logo for **"B-SHIFT"**, featuring custom industrial typography with a dynamic forward-leaning structure inspired by gear shifting and speed. Integrate subtle **>>** arrows and mechanical geometric details using intelligent negative space while maintaining a clean, minimal, highly recognizable identity. Apply Swiss Grid precision, perfect spacing, architectural geometry, and exceptional scalability for social media, event flyers, merchandise, and vinyl branding. Flat vector, transparent background, ultra-sharp edges, black & white plus neon accent versions, globally iconic, optimized for **FLUX.1, SDXL, and Midjourney**.
 
