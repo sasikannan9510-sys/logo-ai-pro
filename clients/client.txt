@@ -1,12 +1,14 @@
-**Company Name:** B-SHIFT
-**Industry:** DJ • Early Rave & Classic Hardcore (Vinyl)
-**Target Audience:** Underground rave fans, hardcore & gabber community, festival organizers, vinyl collectors, club promoters.
-**Style:** Industrial, mechanical, raw, aggressive, futuristic 90s rave, minimalist Swiss precision, bold geometric branding.
-**Colors:** Black, White, Neon Acid Green (or Neon Orange).
-**Symbol:** Integrated forward arrows (>>), gear-shift element, angular motion lines, subtle industrial geometry, negative space.
-**Typography:** Custom bold condensed geometric sans-serif, italic/slanted, sharp edges, premium kerning, strong visual balance.
-**Feeling:** Powerful, energetic, underground, rebellious, fast, mechanical, authentic, timeless.
-**Background:** Transparent or solid black.
-**Restrictions:** No headphones, vinyl records, equalizers, speakers, microphones, music notes, flames, gradients, shadows, mockups, 3D effects, clipart, AI clichés, or stock icons. Flat vector only.
-**Output:** Award-winning premium wordmark logo for **"B-SHIFT"**, featuring custom industrial typography with a dynamic forward-leaning structure inspired by gear shifting and speed. Integrate subtle **>>** arrows and mechanical geometric details using intelligent negative space while maintaining a clean, minimal, highly recognizable identity. Apply Swiss Grid precision, perfect spacing, architectural geometry, and exceptional scalability for social media, event flyers, merchandise, and vinyl branding. Flat vector, transparent background, ultra-sharp edges, black & white plus neon accent versions, globally iconic, optimized for **FLUX.1, SDXL, and Midjourney**.
+**Premium Short Logo Prompt (FLUX.1 / SDXL / Midjourney)**
+
+**Company Name:** Nexus Electronics
+**Industry:** Electronics, Electrical Accessories, Solar & Renewable Energy
+**Target Audience:** Homeowners, Businesses, Contractors, Industrial & Commercial Customers
+**Style:** Premium minimalist, modern, geometric, Swiss design, timeless, professional
+**Colors:** Deep Blue, Solar Yellow/Orange, Dark Gray, Black & White compatible
+**Symbol:** Abstract "N" with circuit connections, power flow, solar energy, clean geometric negative space
+**Typography:** Custom modern geometric sans-serif, **Nexus** emphasized, **Electronics** secondary, precise kerning
+**Feeling:** Innovative, reliable, trusted, intelligent, sustainable, future-ready, premium
+**Background:** Clean white, vector presentation
+**Restrictions:** No gradients, no mockups, no 3D, no shadows, no clipart, no stock icons, no unnecessary details
+**Output:** Award-winning premium vector logo, flat design, AI/EPS/SVG ready, scalable, favicon-friendly, black & white and full-color versions, optimized for FLUX.1, SDXL, and Midjourney.
 
