@@ -1,48 +1,25 @@
-Your brief is excellent—clear, premium, and timeless. Let’s structure this into a **Perfect Prompt Formula** so that any designer or AI tool can execute it flawlessly. Here’s how it looks when broken down:
+That sounds promising. If you've found the perfect GitHub formulas, please **share the GitHub repository URL or paste the formulas here**.
 
----
+I can then:
 
-## 🏆 LJ Walker LTD Logo Prompt
+* Analyze the formula and adapt it specifically for this **Indianapolis typography** contest.
+* Convert it into a **professional design prompt** optimized for Illustrator or vector creation.
+* Improve it to match every contest requirement, including:
 
-**Task**  
-Design a minimalist initials-based logo for LJ Walker LTD.
+  * Bold intertwined "INDIANAPOLIS" typography
+  * Creative letter collage (outline + solid fills)
+  * Established **1821**
+  * **"Crossroads of America"**
+  * **205 Years**
+  * Discreet city list:
 
-**Context**  
-Represents two distinct businesses under one brand:  
-- Real Estate  
-- Media / Digital Content  
-Logo must not feel industry-locked. It should be timeless, premium, and versatile across platforms.
+    * Gary (1906)
+    * Fort Wayne (1794)
+    * South Bend (1823)
+  * One or two Indiana landmarks (not all together)
+  * Indiana sports color palette (without using any team logos)
+  * Original vector illustration style
+  * Print-ready Adobe Illustrator concept
 
-**Exemplars**  
-Style inspiration: Louis Vuitton, Yves Saint Laurent, Chanel, Rolex, Cartier.  
-Not copies—just the same level of simplicity, elegance, and recognition.
+Paste the GitHub link or the formulas, and I'll turn them into a polished, competition-winning design workflow.
 
-**Persona**  
-Professional, modern, sophisticated, premium, instantly recognizable, memorable.  
-Avoid generic real estate/media icons (houses, keys, cameras, microphones, clipart).
-
-**Format**  
-Deliverables: AI, EPS, SVG, PDF, PNG (transparent), JPG.  
-Colors: Black, White, Charcoal, Dark Gray.  
-Must scale beautifully across business cards, signage, social media, websites, embroidery, promotional products, print/digital ads, and vehicle wraps.
-
-**Tone**  
-Elegant, timeless, luxury-brand quality.  
-Simple is better than complicated.  
-Should still look fantastic 20 years from now.
-
----
-
-## ✨ Good vs. Bad Prompt Outputs
-
-- **Good Prompt Output:**  
-“Design a minimalist luxury initials logo for LJ Walker LTD using LJW or LJ. Inspired by Louis Vuitton and Chanel, the logo should be timeless, premium, and versatile across real estate and media. Deliver in black, white, charcoal, and dark gray. Provide AI, EPS, SVG, PDF, PNG, and JPG formats.”
-
-- **Bad Prompt Output:**  
-“Make a logo for LJ Walker LTD with a house and a camera. Use lots of colors and gradients. Deliver a JPG.”
-
----
-
-This framework ensures your logo brief is **crystal clear, professional, and designer-ready**.  
-
-Would you like me to refine this into a **ready-to-use MidJourney / AI design prompt** for immediate generation, or keep it strictly as a **human-designer creative brief**?
