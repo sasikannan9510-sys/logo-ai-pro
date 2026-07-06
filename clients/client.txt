@@ -1,88 +1,55 @@
-The Canva AI design generator is ready. Use this master prompt to produce a premium, agency-quality logo:
+Company Name:
+Syntax Logo Design
 
----
+Industry:
+Software Development & IT Solutions
 
-**CANVA AI MASTER LOGO PROMPT**
+Target Audience:
+Businesses, startups, enterprise clients, technology companies, software users, corporate decision-makers, and digital agencies seeking innovative and reliable IT solutions.
 
-> Design a world-class, premium brand identity for **Four Peaks Building**, a modern rural construction company based in **Geraldine, New Zealand**. The company is named after the iconic Four Peaks mountain range visible from the owner's property. Create a memorable **combination mark** that integrates a distinctive icon with a custom wordmark.
->
-> **Design Style**
->
-> * Modern minimalist
-> * Swiss-inspired corporate identity
-> * Architectural precision
-> * Premium construction branding
-> * Clean geometric vector design
-> * Timeless and scalable
-> * Clever use of negative space
-> * Flat design (no gradients, bevels, or 3D)
-> * Strong visual balance and symmetry
->
-> **Icon Concept**
->
-> * Abstract interpretation of the Four Peaks mountain range
-> * Four clean geometric peaks
-> * Integrate subtle rooflines or building forms
-> * Suggest craftsmanship, strength, trust, precision, and durability
-> * Avoid generic clip-art mountains
-> * Create an iconic symbol recognizable without text
->
-> **Typography**
->
-> * Custom architectural sans-serif
-> * Bold but refined
-> * "FOUR PEAKS" slightly larger
-> * "BUILDING" smaller beneath or aligned
-> * Thin black outline surrounding the lettering
-> * Excellent spacing and kerning
->
-> **Colour Palette**
->
-> * Moss Green (#5B6F47)
-> * Warm Cream (#F4F0E6)
-> * Charcoal Black (#222222)
-> * Optional Forest Green accents (#445C3C)
-> * Flat colours only
->
-> **Brand Personality**
->
-> * Honest
-> * Rural
-> * Premium
-> * Professional
-> * Reliable
-> * Modern craftsmanship
-> * New Zealand landscape inspiration
->
-> **Deliverables**
->
-> * Primary logo
-> * Icon-only version
-> * Horizontal lockup
-> * Vertical lockup
-> * Black version
-> * White version
-> * Full-colour version
-> * Business card mockup
-> * Site sign mockup
-> * Vehicle branding mockup
-> * Hard hat mockup
-> * Building façade signage
-> * Social profile icon
->
-> **Output Requirements**
->
-> * Vector-ready
-> * AI, SVG, EPS compatible
-> * High-resolution PNG and JPG
-> * CMYK and RGB colour specifications
-> * Typography details or outlined text
-> * Brand colour codes
-> * Minimal clear-space guide
-> * Premium presentation on a clean cream background
->
-> **Creative Direction**
-> Imagine branding created by Pentagram, Collins, Mucho, or Studio Dumbar—minimal, iconic, architectural, memorable, and built to last. The logo should feel equally at home on construction vehicles, embroidered uniforms, building signage, business cards, and digital platforms.
+Style:
+Minimalist, Modern, Geometric, Swiss-inspired, Clean, Technology-focused, Professional, Corporate, Flat Vector Design.
 
-This prompt is optimized to give Canva AI a much stronger creative direction than a basic logo brief, increasing the likelihood of a polished, professional result.
+Colors:
+• Electric Blue (#007BFF)
+• Vibrant Orange (#FF6A00)
+• White Background
+• Dark Charcoal (#1E1E1E) for reverse version
 
+Symbol:
+A custom illustrative letter "S" integrated with subtle technology-inspired elements such as circuit lines, code brackets, digital pathways, abstract connections, or futuristic geometric forms. The icon should be unique, balanced, and instantly recognizable while remaining simple enough for small-scale applications.
+
+Typography:
+Modern geometric sans-serif typeface with clean spacing, bold yet elegant, custom letter spacing, premium corporate appearance.
+
+Feeling:
+Innovative, Intelligent, Trustworthy, Modern, Professional, High-Tech, Premium, Clean, Scalable, Future-Ready.
+
+Background:
+Primary version on pure white.
+Secondary reverse version in white on a dark charcoal background.
+
+Restrictions:
+No gradients.
+No shadows.
+No 3D effects.
+No stock icons.
+No AI-generated clipart.
+No unnecessary details.
+Flat vector only.
+Original artwork.
+Scalable for print and digital.
+Must remain recognizable at favicon size.
+Suitable for proposals, websites, mobile apps, social media, business cards, signage, and presentations.
+
+Output:
+• Primary full-color logo on white background
+• Reverse (light-on-dark) logo version
+• Vector source files (.AI & .SVG)
+• white PNG (High Resolution)
+• Black & White version
+• Monochrome version
+• App icon / Favicon version
+• Print-ready vector files
+• Brand color specifications
+• Fully editable layered artwork create logo image 
