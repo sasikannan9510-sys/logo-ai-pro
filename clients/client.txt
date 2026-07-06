@@ -1,31 +1,50 @@
-I can help refine this into a clean Illustrator-ready design brief, but the image generation limit was reached, so I can’t create the visual here. [generated_image:limit]
+Absolutely — here’s a **designer-facing concept proposal** you can send or adapt for Thermabond. It frames the work as a strategic logo exploration, with clear rationale, deliverables, and process. The proposal approach aligns with common design-proposal structure: brief overview, concept directions, process, deliverables, and next steps. [ixdf](https://ixdf.org/literature/topics/design-proposals)
 
-## Clean design direction
+## Thermabond concept proposal
 
-Use **INDIANAPOLIS** as the main focal point with a jumbled, collage-style letter treatment that still reads clearly. Keep the slogan “CROSSROADS OF AMERICA” secondary and understated, and place the city names Gary, Fort Wayne, and South Bend in a discreet supporting role.
+**Project:** Thermabond brand identity refinement  
+**Document Ref:** TB-BRD-BRF-001  
+**Version:** 1.0  
+**Date:** July 2026  
 
-## Stronger art direction
+Thermabond is seeking a refined identity that is simple, distinctive, premium, and highly functional across digital, print, vehicle signage, and embroidered workwear. The brief calls for a typographic-first solution with minimal visual elements, avoiding literal construction clichés and ensuring the mark remains legible at very small sizes and in one-colour reproduction. [pitch](https://pitch.com/templates/Design-Proposal-3S7kAq4HnHNf54eUCF2jyunD)
 
-For the landmarks, limit the design to 1–2 elements per version so it stays clean:
-- Version A: Indianapolis Motor Speedway + a small Indiana outline motif.
-- Version B: Notre Dame + Indiana Dunes National Park.
-- Version C: Indianapolis Motor Speedway + Notre Dame.
+## Creative approach
 
-Use sports-inspired colors from Indiana teams without logos: navy, royal blue, white, gold, crimson, and black. That gives the design energy without violating the no-logo rule.
+I would recommend exploring **2–3 typographic directions** rather than forcing the identity into a single pure wordmark. The best route may be a refined wordmark, but an integrated symbol or hybrid combination mark should remain on the table if it strengthens recognition and usability. The design language should feel disciplined, modern, and production-safe, with an emphasis on clarity over ornament. [ixdf](https://ixdf.org/literature/topics/design-proposals)
 
-## Illustrator-ready notes
+The visual system should be built around strong letterforms, controlled spacing, and a small distinguishing device that can function as an ownable brand cue. That device should be simple enough to survive embroidery, favicons, and monochrome applications without breakdown. [agentsonly](https://www.agentsonly.com/brand-guideline-categories/application)
 
-To make this usable for a designer, specify:
-- Fully editable vector artwork in Adobe Illustrator.
-- Original hand-built lettering, not clipart or stock elements.
-- Open-outline and solid-fill letter contrast.
-- Discreet landmark sketches as line art or minimal fills.
-- No team logos, no AI-generated imagery, no mockup presentation.
+## Direction options
 
-## Polished brief text
+### Direction 1: Pure typographic refinement
+A clean wordmark built from custom-drawn letterforms inspired by the existing DM Sans system, but adjusted for stronger personality and trademark distinctiveness. This direction would rely on proportion, spacing, and a subtle custom detail rather than illustration.
 
-Here is a cleaned-up version you can send to a designer:
+### Direction 2: Wordmark with device
+A restrained wordmark paired with a compact geometric device that can stand alone at favicon size or as a stamp on workwear and equipment. The device would be designed to stay bold and legible when reduced for embroidery or single-colour print. [towardsemployment](https://www.towardsemployment.org/wp-content/uploads/TE_BrandGuidelines_Updated-4.17.25.pdf)
 
-“Create an original, bold, modern typography design featuring the word INDIANAPOLIS as a creative collage of intertwined and slightly jumbled letters. Use a mix of open outline lettering and solid fills while keeping the word legible and visually balanced. Include the slogan ‘CROSSROADS OF AMERICA’ as a subtle secondary line. Add only 1–2 small original vector-style landmark sketches per design, choosing from Indianapolis Motor Speedway, Indiana Dunes National Park, and Notre Dame, to avoid a cluttered composition. Discreetly include the city names GARY (1906), FORT WAYNE (1794), and SOUTH BEND (1823). Use a color palette inspired by Indiana sports teams, but do not use any team logos. Final artwork must be fully editable vector files in Adobe Illustrator, original only, with no Google clipart and no AI-generated imagery.”
+### Direction 3: Hybrid identity
+A more integrated solution where one letterform is modified to create a brand cue inside the name itself. This would preserve simplicity while offering a stronger proprietary feel, provided the mark remains clear at small scale. [pitch](https://pitch.com/templates/Design-Proposal-3S7kAq4HnHNf54eUCF2jyunD)
 
-Would you like me to turn this into a one-page **designer job post** or a more detailed **logo/poster art direction sheet**?
+## Production considerations
+
+Because Thermabond expects heavy use on embroidered uniforms, hi-vis workwear, PPE, and vehicle signage, every direction should be tested in a simplified form. Fine strokes, tight counters, gradients, and decorative detail should be avoided, since these can fail in stitching and small reproduction. The final artwork should be prepared as fully editable vector files with clean outlines and straightforward color separations for reliable production. [agentsonly](https://www.agentsonly.com/brand-guideline-categories/application)
+
+## Deliverables
+
+Planned deliverables would include:
+- 2–3 initial concept directions.
+- One consolidated round of revisions.
+- Final artwork in AI, EPS, and/or SVG.
+- High-resolution PNG exports with transparent background.
+- Primary colour, navy single-colour, reversed white, and monochrome black versions. [pitch](https://pitch.com/templates/Design-Proposal-3S7kAq4HnHNf54eUCF2jyunD)
+
+## Suggested timeline
+
+A practical turnaround for the initial concept round would be about **5–7 business days** after receiving confirmation of scope, access to reference material, and any production preferences. Final timing would depend on the speed of feedback and the complexity of refinement.
+
+## Positioning note
+
+This identity should avoid visual similarity to existing construction or asphalt-sector marks while still feeling credible in a trade and industrial environment. The goal is a mark that reads as premium and operationally robust, not decorative. [venngage](https://venngage.com/blog/proposal-design/)
+
+Would you like me to turn this into a **client-ready PDF-style proposal structure** or a **shorter email version**?
