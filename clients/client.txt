@@ -1,25 +1,31 @@
-That sounds promising. If you've found the perfect GitHub formulas, please **share the GitHub repository URL or paste the formulas here**.
+I can help refine this into a clean Illustrator-ready design brief, but the image generation limit was reached, so I can’t create the visual here. [generated_image:limit]
 
-I can then:
+## Clean design direction
 
-* Analyze the formula and adapt it specifically for this **Indianapolis typography** contest.
-* Convert it into a **professional design prompt** optimized for Illustrator or vector creation.
-* Improve it to match every contest requirement, including:
+Use **INDIANAPOLIS** as the main focal point with a jumbled, collage-style letter treatment that still reads clearly. Keep the slogan “CROSSROADS OF AMERICA” secondary and understated, and place the city names Gary, Fort Wayne, and South Bend in a discreet supporting role.
 
-  * Bold intertwined "INDIANAPOLIS" typography
-  * Creative letter collage (outline + solid fills)
-  * Established **1821**
-  * **"Crossroads of America"**
-  * **205 Years**
-  * Discreet city list:
+## Stronger art direction
 
-    * Gary (1906)
-    * Fort Wayne (1794)
-    * South Bend (1823)
-  * One or two Indiana landmarks (not all together)
-  * Indiana sports color palette (without using any team logos)
-  * Original vector illustration style
-  * Print-ready Adobe Illustrator concept
+For the landmarks, limit the design to 1–2 elements per version so it stays clean:
+- Version A: Indianapolis Motor Speedway + a small Indiana outline motif.
+- Version B: Notre Dame + Indiana Dunes National Park.
+- Version C: Indianapolis Motor Speedway + Notre Dame.
 
-Paste the GitHub link or the formulas, and I'll turn them into a polished, competition-winning design workflow.
+Use sports-inspired colors from Indiana teams without logos: navy, royal blue, white, gold, crimson, and black. That gives the design energy without violating the no-logo rule.
 
+## Illustrator-ready notes
+
+To make this usable for a designer, specify:
+- Fully editable vector artwork in Adobe Illustrator.
+- Original hand-built lettering, not clipart or stock elements.
+- Open-outline and solid-fill letter contrast.
+- Discreet landmark sketches as line art or minimal fills.
+- No team logos, no AI-generated imagery, no mockup presentation.
+
+## Polished brief text
+
+Here is a cleaned-up version you can send to a designer:
+
+“Create an original, bold, modern typography design featuring the word INDIANAPOLIS as a creative collage of intertwined and slightly jumbled letters. Use a mix of open outline lettering and solid fills while keeping the word legible and visually balanced. Include the slogan ‘CROSSROADS OF AMERICA’ as a subtle secondary line. Add only 1–2 small original vector-style landmark sketches per design, choosing from Indianapolis Motor Speedway, Indiana Dunes National Park, and Notre Dame, to avoid a cluttered composition. Discreetly include the city names GARY (1906), FORT WAYNE (1794), and SOUTH BEND (1823). Use a color palette inspired by Indiana sports teams, but do not use any team logos. Final artwork must be fully editable vector files in Adobe Illustrator, original only, with no Google clipart and no AI-generated imagery.”
+
+Would you like me to turn this into a one-page **designer job post** or a more detailed **logo/poster art direction sheet**?
