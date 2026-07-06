@@ -1,234 +1,168 @@
+Act as an award-winning luxury brand identity designer and creative director with experience creating timeless logos for global premium brands.
+
+Design an original, premium, minimalist monogram logo for "LJ Walker LTD."
+
 ## TASK
+Create a timeless logo based primarily on the initials:
 
-Design a premium, vintage-inspired logo identity for a new company named "Henry's Muse."
+LJW
+or
 
-The logo should be original, timeless, memorable, and suitable for commercial branding. It must look handcrafted by an experienced illustrator rather than AI-generated clip art.
+LJ
 
----
+Choose whichever creates the strongest visual identity.
+
+The logo must become the brand itself rather than relying on symbols.
 
 ## CONTEXT
 
-Henry's Muse is a social platform that connects people who barter skills with each other to accomplish experiences and goals from their bucket lists.
+LJ Walker LTD is the parent company representing two completely different industries:
 
-The brand represents:
+• Real Estate
+• Media & Digital Content
 
-• Adventure
-• Human connection
-• Curiosity
-• Generosity
-• Creativity
-• Shared experiences
-• Friendship
-• Personal growth
+The identity must feel equally appropriate for both businesses.
 
-The logo should emotionally communicate the feeling of helping people achieve dreams together.
+It should never look like a real estate company.
+It should never look like a media company.
 
----
+Instead, it should communicate prestige, professionalism, trust, intelligence, confidence, craftsmanship and longevity.
 
-## DESIGN REQUIREMENTS
+The logo should still feel modern twenty years from now.
 
-Create a vintage emblem featuring:
+## DESIGN STYLE
 
-• Henry, a charming Miniature Schnauzer mascot
-• Henry peeking out from inside an old metal bucket
-• The bucket must include one subtle hole that cleverly references the phrase "bucket list."
-• Henry should appear friendly, intelligent, slightly curious, and elegant.
-• The bucket should have engraved vintage texture without becoming visually busy.
-• Integrate the company name "Henry's Muse" naturally into the composition.
-• Typography must remain readable even at favicon size.
+Luxury
+Minimal
+Editorial
+Swiss Design
+Modern
+Geometric
+Balanced
+Timeless
+Corporate Luxury
+High-End Branding
 
-The illustration should feel like an antique engraving, woodcut, or pen-and-ink etching.
+Use strong typography and negative space.
 
-Avoid cartoon styles.
+Create a memorable monogram using clean geometric construction.
 
-Avoid flat geometric logos.
+The logo should feel iconic enough to stand beside luxury fashion houses.
 
-Avoid generic AI mascots.
+Avoid unnecessary details.
 
----
+Every line should have purpose.
 
-## STYLE
+## DO NOT USE
 
-Overall aesthetic:
+No houses
+No roofs
+No keys
+No cameras
+No microphones
+No film strips
+No buildings
+No generic icons
+No clipart
+No gradients
+No shadows
+No mockups
+No AI clichés
 
-• Vintage
-• Heritage branding
-• Hand engraved
-• Classic illustration
-• Letterpress quality
-• Victorian craftsmanship
-• Artisan identity
-• Premium
-• Elegant
-• Timeless
+## INSPIRATION
 
-Influences:
+Inspired by the elegance and simplicity of brands such as:
 
-• 19th-century book illustrations
-• Whiskey labels
-• Antique apothecary packaging
-• Old library emblems
-• Traditional engraving
-• Classic European printmaking
-• Luxury stationery
+• Louis Vuitton
+• Yves Saint Laurent
+• Chanel
+• Cartier
+• Rolex
+• Tom Ford
+• Celine
 
----
+Do NOT copy these brands.
 
-## COLOR PALETTE
-
-Monochrome only.
-
-Single ink color:
-
-Deep black
-
-or
-
-Dark charcoal
-
-on white background.
-
-No gradients.
-
-No shadows.
-
-No textures outside line work.
-
-No color accents.
-
-The logo must reproduce perfectly in:
-
-• Letterpress
-• Embossing
-• Wax seals
-• Business cards
-• Websites
-• Social media avatars
-• Merchandise
-• Laser engraving
-• Screen printing
-
----
+Capture only their timeless sophistication.
 
 ## TYPOGRAPHY
 
-Use an elegant vintage serif or engraved Roman typeface.
+Custom monogram
 
-Possible inspiration:
+Elegant proportions
 
-• Caslon
-• Garamond
-• Baskerville
-• Goudy
-• Copperplate engraving
+Balanced spacing
 
-Typography should feel handcrafted rather than digital.
+Luxury serif or refined geometric sans-serif
 
----
+Perfect kerning
 
-## COMPOSITION
+Symmetry where appropriate
 
-Produce:
+Sophisticated letter interaction
 
-1. Stacked logo
+Creative ligatures are welcome.
 
-2. Horizontal logo
+## COLOR PALETTE
 
-3. Icon-only version
+Primary:
 
-Maintain excellent spacing and balance.
+Black
 
-Strong silhouette.
+White
 
-Readable at both 32 px and large signage.
+Charcoal
 
----
+Dark Gray
 
-## DELIVERABLES
+Monochrome only.
 
-Provide:
+The logo must work perfectly in one color.
 
-• Editable SVG
-• Adobe Illustrator (.AI)
-• Print-ready PDF
-• Transparent PNG (4000 px)
-• Black version
-• White reversed version
+## APPLICATIONS
 
-Also include a concise brand style guide showing:
+Business cards
 
-• Typography
-• Clear space rules
-• Minimum size
-• Color specification
-• Proper logo usage
-• Incorrect usage examples
+Letterheads
 
----
+Luxury stationery
 
-## NEGATIVE PROMPT
+Property signs
 
-Do NOT generate:
+Website
 
-• Flat logos
-• Gradient effects
-• Modern startup aesthetics
-• Generic mascots
-• Stock illustrations
-• Clip art
-• AI artifacts
-• Symmetrical corporate marks
-• Cartoon dogs
-• Neon colors
-• Watercolor
-• 3D effects
-• Mockups
-• Background scenes
-• Busy compositions
-• Photorealism
+YouTube
 
----
+Social media
 
-## EXEMPLARS
+Embroidery
 
-The craftsmanship should feel comparable to premium heritage brands, antique whiskey labels, luxury coffee roasters, boutique publishing houses, traditional engraving studios, and historic letterpress identities.
+Vehicle wraps
 
-The result should immediately communicate trust, craftsmanship, warmth, intelligence, and timeless elegance.
+Billboards
 
----
+Digital advertising
 
-## PERSONA
+Large signage
 
-You are a world-class logo designer with over 30 years of experience in luxury branding, vintage illustration, typography, engraving, and identity systems.
+The design must remain recognizable at favicon size.
 
-You think like the creative directors of Pentagram, Landor, Chermayeff & Geismar & Haviv, and leading heritage branding studios.
+## OUTPUT
 
-Every design decision should be intentional, commercially viable, and suitable for trademark registration.
+Create a clean vector logo.
 
----
+Flat design.
 
-## FORMAT
+No mockups.
 
-Return:
+Centered composition.
 
-1. Design rationale
-2. Creative concept explanation
-3. Logo construction notes
-4. Typography recommendations
-5. Color specifications
-6. Production-ready design description
-7. Brand style guide
-8. Suggested revisions if refinement is needed
+White background.
 
----
+Extremely high contrast.
 
-## TONE
+Crisp vector edges.
 
-Elegant.
-Refined.
-Thoughtful.
-Craftsman-level.
-Luxury heritage branding.
-Timeless rather than trendy.
+Luxury brand presentation.
 
-The final logo should look as though it belongs on a century-old artisan company while still feeling welcoming to a modern audience.
+Award-winning identity design suitable for international branding competitions.
