@@ -1,32 +1,44 @@
-Create a premium logo presentation for Vanisheer, a mineral sunscreen brand.
+Create a modern, industrial, highly recognizable logo for TekMount, a manufacturer of mounting solutions for technology devices including displays, monitors, tablets, cameras, kiosks, and professional AV equipment.
 
-Brand essentials to keep:
-- Brand name: Vanisheer
-- Color direction: navy to champagne gradient
-- Existing vibe to preserve: elevated, clean, premium, modern, feminine-luxury but still credible for skincare
-- Avoid: sun icons, childish beach visuals, generic tropical sunscreen styling
+The logo should communicate strength, engineering precision, innovation, reliability, and professional technical performance. It should feel clean, technical, durable, and trustworthy while remaining minimal, scalable, and suitable for industrial branding.
 
-Creative direction:
-- Explore fresh wordmark presentations rather than changing the name itself
-- Play with layout, spacing, subtle styling, typography treatment, gradient application, and staging
-- Show multiple moods and directions: sleek luxury, modern clinical-premium, soft editorial beauty, and bold shelf-ready packaging
-- Keep the branding refined and high-end, suitable for a premium skincare/mineral SPF product
-- Surprise me with different ways the wordmark can feel more desirable and premium while still readable and commercially strong
+Use visual inspiration from:
+- mounting brackets, support arms, rails, clamps, wall mounts, and hardware systems
+- display mounting structures and device support solutions
+- integrated T and/or M letterforms
+- geometric industrial forms, modular construction, structural balance, and engineered symmetry
 
-Mockup requirements:
-- Show the logo applied directly onto a realistic sunscreen bottle or sunscreen tube
-- Use a believable premium product mockup that looks like a real skincare/SPF package
-- Include a few useful views if possible: straight-on hero bottle, angled bottle, close-up of label treatment, and a clean studio product presentation
-- Let the bottle itself feel elegant, minimal, and premium
-- Focus on how the Vanisheer wordmark lives on-pack
+The logo should include:
+- a strong standalone icon
+- a bold professional wordmark
+- clean vector construction
+- excellent small-size recognition
+- a timeless industrial-tech look
+- suitability for embossing, laser engraving, packaging, product branding, manuals, trade show displays, vehicles, websites, and business cards
 
-Visual style:
-- luxurious skincare branding
-- minimal, elegant, editorial presentation
-- navy-to-champagne gradient used tastefully in the wordmark or supporting design details
-- clean background, soft lighting, premium cosmetic photography feel
-- no clutter, no loud tropical sunscreen clichés
+Typography:
+- bold modern sans-serif
+- industrial, engineered, highly legible
+- clean spacing and confident proportions
 
-Output:
-- Generate multiple distinct logo presentation concepts for Vanisheer
-- Make each concept feel polished enough to present to a client or use as a direction for final brand development
+Colors:
+- electric blue
+- charcoal gray
+- black
+- white
+- optional metallic silver accent
+
+Generate 5 distinct directions:
+1. T/M monogram built from bracket or mount geometry
+2. display-mount inspired symbol with a structural support form
+3. geometric abstract icon suggesting alignment, strength, and precision
+4. clean wordmark-led concept with subtle integrated technical symbolism
+5. minimal industrial emblem suitable for hardware branding and engraving
+
+Avoid:
+- generic tech clipart
+- overly detailed mechanical drawings
+- weak or trendy startup-style logos
+- cartoon graphics
+- excessive gradients, chrome effects, shadows, or fake 3D
+- hard-to-read typography
