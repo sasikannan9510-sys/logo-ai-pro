@@ -1,44 +1,135 @@
-Create a modern, industrial, highly recognizable logo for TekMount, a manufacturer of mounting solutions for technology devices including displays, monitors, tablets, cameras, kiosks, and professional AV equipment.
+Refine and professionally reproduce the **existing Jing Systems logo**.
 
-The logo should communicate strength, engineering precision, innovation, reliability, and professional technical performance. It should feel clean, technical, durable, and trustworthy while remaining minimal, scalable, and suitable for industrial branding.
 
-Use visual inspiration from:
-- mounting brackets, support arms, rails, clamps, wall mounts, and hardware systems
-- display mounting structures and device support solutions
-- integrated T and/or M letterforms
-- geometric industrial forms, modular construction, structural balance, and engineered symmetry
 
-The logo should include:
-- a strong standalone icon
-- a bold professional wordmark
-- clean vector construction
-- excellent small-size recognition
-- a timeless industrial-tech look
-- suitability for embossing, laser engraving, packaging, product branding, manuals, trade show displays, vehicles, websites, and business cards
+This is **not a redesign**. The current Jing Systems logo identity must stay recognisable.
 
-Typography:
-- bold modern sans-serif
-- industrial, engineered, highly legible
-- clean spacing and confident proportions
 
-Colors:
-- electric blue
-- charcoal gray
-- black
-- white
-- optional metallic silver accent
 
-Generate 5 distinct directions:
-1. T/M monogram built from bracket or mount geometry
-2. display-mount inspired symbol with a structural support form
-3. geometric abstract icon suggesting alignment, strength, and precision
-4. clean wordmark-led concept with subtle integrated technical symbolism
-5. minimal industrial emblem suitable for hardware branding and engraving
+## Preserve the existing logo identity
 
-Avoid:
-- generic tech clipart
-- overly detailed mechanical drawings
-- weak or trendy startup-style logos
-- cartoon graphics
-- excessive gradients, chrome effects, shadows, or fake 3D
-- hard-to-read typography
+
+
+Keep the recognisable structure and symbolism of the current logo, including:
+
+
+
+* two stylised supportive hands forming the main outer shape
+
+* a lotus flower in the centre
+
+* a warm glowing light in the middle
+
+* a calm wellness + software / booking system feel
+
+* the existing palette direction of blue, teal, gold and cream tones
+
+
+
+## Goal
+
+
+
+Create a **more polished, premium, modern and professional version** of the current Jing Systems logo for a wellness software platform, while preserving the original identity and cultural feel.
+
+
+
+## Refine the existing logo by improving
+
+
+
+* line quality and smoothness
+
+* hand shape clarity and symmetry
+
+* lotus detail and petal balance
+
+* centre glow quality and elegance
+
+* overall visual balance and proportion
+
+* separation between the hands, lotus and glow
+
+* contrast and readability at small sizes
+
+* premium SaaS / wellness brand presentation
+
+* subtle realism and dimensional polish without changing the logo concept
+
+
+
+## Style direction
+
+
+
+The logo should feel:
+
+
+
+* calm
+
+* premium
+
+* modern
+
+* trustworthy
+
+* culturally respectful
+
+* wellness-focused
+
+* suitable for clinic booking and management software
+
+* elegant rather than decorative
+
+
+
+## Important constraints
+
+
+
+* do **not** redesign the logo
+
+* do **not** replace the hands / lotus / glow concept
+
+* do **not** add extra symbols
+
+* do **not** make it look like a generic spa logo
+
+* do **not** turn it into a religious icon
+
+* do **not** make it cartoonish or fantasy-like
+
+* do **not** make it look like a generic AI-generated logo
+
+
+
+## Result
+
+
+
+The final result should look like the **same Jing Systems logo**, but professionally redrawn and elevated to a premium brand standard suitable for website use, app use, software branding, marketing, and future animation.
+
+
+LOGO REFINEMENT FORMULA
+
+1. Identity lock
+“Refine the existing X logo. This is not a redesign.”
+
+2. Preserve list
+List the exact elements that must stay.
+
+3. Brand goal
+Explain what the brand does and what the logo must feel like.
+
+4. Improvement list
+State what should be improved: balance, symmetry, depth, glow, polish, readability.
+
+5. Style adjectives
+5–8 words like: calm, premium, modern, trustworthy, technical, elegant.
+
+6. Negative constraints
+Say what must be avoided: generic AI look, cartoon, extra symbols, over-redesign.
+
+7. Output use case
+Mention web, app icon, SaaS, social, 4K, animation layers, etc.
