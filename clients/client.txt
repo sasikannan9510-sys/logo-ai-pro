@@ -1,29 +1,32 @@
-Create a premium logo presentation for [BRAND NAME], a [PRODUCT TYPE / CATEGORY].
+Create a premium logo presentation for Vanisheer, a mineral sunscreen brand.
 
 Brand essentials to keep:
-- Brand name: [BRAND NAME]
-- Color direction: [PRIMARY COLORS / GRADIENT]
-- Existing vibe to preserve: [LUXURY / CLEAN / MODERN / CLINICAL / SOFT / ELEVATED]
-- Avoid: [THINGS TO EXCLUDE]
+- Brand name: Vanisheer
+- Color direction: navy to champagne gradient
+- Existing vibe to preserve: elevated, clean, premium, modern, feminine-luxury but still credible for skincare
+- Avoid: sun icons, childish beach visuals, generic tropical sunscreen styling
 
 Creative direction:
 - Explore fresh wordmark presentations rather than changing the name itself
-- Show multiple styling directions through layout, spacing, typography treatment, gradient use, scale, and composition
-- Present the logo as a refined brand identity system, not just a flat wordmark
-- Include tasteful staging and presentation variations so I can react to different moods
+- Play with layout, spacing, subtle styling, typography treatment, gradient application, and staging
+- Show multiple moods and directions: sleek luxury, modern clinical-premium, soft editorial beauty, and bold shelf-ready packaging
+- Keep the branding refined and high-end, suitable for a premium skincare/mineral SPF product
+- Surprise me with different ways the wordmark can feel more desirable and premium while still readable and commercially strong
 
 Mockup requirements:
-- Show the logo applied to a realistic [BOTTLE / TUBE / PACKAGING TYPE]
-- Use a premium product mockup that feels believable and retail-ready
-- Show the branding directly on the actual product packaging, not floating separately
-- Include a few presentation contexts if helpful: front-facing bottle, angled bottle, close-up crop of label, shelf-style product scene, clean luxury studio mockup
+- Show the logo applied directly onto a realistic sunscreen bottle or sunscreen tube
+- Use a believable premium product mockup that looks like a real skincare/SPF package
+- Include a few useful views if possible: straight-on hero bottle, angled bottle, close-up of label treatment, and a clean studio product presentation
+- Let the bottle itself feel elegant, minimal, and premium
+- Focus on how the Vanisheer wordmark lives on-pack
 
 Visual style:
-- [DESIRED AESTHETIC]
-- [TYPOGRAPHY NOTES]
-- [MATERIAL / FINISH NOTES]
-- [PACKAGING NOTES]
+- luxurious skincare branding
+- minimal, elegant, editorial presentation
+- navy-to-champagne gradient used tastefully in the wordmark or supporting design details
+- clean background, soft lighting, premium cosmetic photography feel
+- no clutter, no loud tropical sunscreen clichés
 
 Output:
-- Generate several distinct logo presentation directions for comparison
-- Keep the result premium, polished, commercially viable, and presentation-ready
+- Generate multiple distinct logo presentation concepts for Vanisheer
+- Make each concept feel polished enough to present to a client or use as a direction for final brand development
