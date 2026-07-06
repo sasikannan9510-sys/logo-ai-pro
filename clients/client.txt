@@ -1,135 +1,88 @@
-Refine and professionally reproduce the **existing Jing Systems logo**.
+The Canva AI design generator is ready. Use this master prompt to produce a premium, agency-quality logo:
+
+---
+
+**CANVA AI MASTER LOGO PROMPT**
+
+> Design a world-class, premium brand identity for **Four Peaks Building**, a modern rural construction company based in **Geraldine, New Zealand**. The company is named after the iconic Four Peaks mountain range visible from the owner's property. Create a memorable **combination mark** that integrates a distinctive icon with a custom wordmark.
+>
+> **Design Style**
+>
+> * Modern minimalist
+> * Swiss-inspired corporate identity
+> * Architectural precision
+> * Premium construction branding
+> * Clean geometric vector design
+> * Timeless and scalable
+> * Clever use of negative space
+> * Flat design (no gradients, bevels, or 3D)
+> * Strong visual balance and symmetry
+>
+> **Icon Concept**
+>
+> * Abstract interpretation of the Four Peaks mountain range
+> * Four clean geometric peaks
+> * Integrate subtle rooflines or building forms
+> * Suggest craftsmanship, strength, trust, precision, and durability
+> * Avoid generic clip-art mountains
+> * Create an iconic symbol recognizable without text
+>
+> **Typography**
+>
+> * Custom architectural sans-serif
+> * Bold but refined
+> * "FOUR PEAKS" slightly larger
+> * "BUILDING" smaller beneath or aligned
+> * Thin black outline surrounding the lettering
+> * Excellent spacing and kerning
+>
+> **Colour Palette**
+>
+> * Moss Green (#5B6F47)
+> * Warm Cream (#F4F0E6)
+> * Charcoal Black (#222222)
+> * Optional Forest Green accents (#445C3C)
+> * Flat colours only
+>
+> **Brand Personality**
+>
+> * Honest
+> * Rural
+> * Premium
+> * Professional
+> * Reliable
+> * Modern craftsmanship
+> * New Zealand landscape inspiration
+>
+> **Deliverables**
+>
+> * Primary logo
+> * Icon-only version
+> * Horizontal lockup
+> * Vertical lockup
+> * Black version
+> * White version
+> * Full-colour version
+> * Business card mockup
+> * Site sign mockup
+> * Vehicle branding mockup
+> * Hard hat mockup
+> * Building façade signage
+> * Social profile icon
+>
+> **Output Requirements**
+>
+> * Vector-ready
+> * AI, SVG, EPS compatible
+> * High-resolution PNG and JPG
+> * CMYK and RGB colour specifications
+> * Typography details or outlined text
+> * Brand colour codes
+> * Minimal clear-space guide
+> * Premium presentation on a clean cream background
+>
+> **Creative Direction**
+> Imagine branding created by Pentagram, Collins, Mucho, or Studio Dumbar—minimal, iconic, architectural, memorable, and built to last. The logo should feel equally at home on construction vehicles, embroidered uniforms, building signage, business cards, and digital platforms.
+
+This prompt is optimized to give Canva AI a much stronger creative direction than a basic logo brief, increasing the likelihood of a polished, professional result.
 
-
-
-This is **not a redesign**. The current Jing Systems logo identity must stay recognisable.
-
-
-
-## Preserve the existing logo identity
-
-
-
-Keep the recognisable structure and symbolism of the current logo, including:
-
-
-
-* two stylised supportive hands forming the main outer shape
-
-* a lotus flower in the centre
-
-* a warm glowing light in the middle
-
-* a calm wellness + software / booking system feel
-
-* the existing palette direction of blue, teal, gold and cream tones
-
-
-
-## Goal
-
-
-
-Create a **more polished, premium, modern and professional version** of the current Jing Systems logo for a wellness software platform, while preserving the original identity and cultural feel.
-
-
-
-## Refine the existing logo by improving
-
-
-
-* line quality and smoothness
-
-* hand shape clarity and symmetry
-
-* lotus detail and petal balance
-
-* centre glow quality and elegance
-
-* overall visual balance and proportion
-
-* separation between the hands, lotus and glow
-
-* contrast and readability at small sizes
-
-* premium SaaS / wellness brand presentation
-
-* subtle realism and dimensional polish without changing the logo concept
-
-
-
-## Style direction
-
-
-
-The logo should feel:
-
-
-
-* calm
-
-* premium
-
-* modern
-
-* trustworthy
-
-* culturally respectful
-
-* wellness-focused
-
-* suitable for clinic booking and management software
-
-* elegant rather than decorative
-
-
-
-## Important constraints
-
-
-
-* do **not** redesign the logo
-
-* do **not** replace the hands / lotus / glow concept
-
-* do **not** add extra symbols
-
-* do **not** make it look like a generic spa logo
-
-* do **not** turn it into a religious icon
-
-* do **not** make it cartoonish or fantasy-like
-
-* do **not** make it look like a generic AI-generated logo
-
-
-
-## Result
-
-
-
-The final result should look like the **same Jing Systems logo**, but professionally redrawn and elevated to a premium brand standard suitable for website use, app use, software branding, marketing, and future animation.
-
-
-LOGO REFINEMENT FORMULA
-
-1. Identity lock
-“Refine the existing X logo. This is not a redesign.”
-
-2. Preserve list
-List the exact elements that must stay.
-
-3. Brand goal
-Explain what the brand does and what the logo must feel like.
-
-4. Improvement list
-State what should be improved: balance, symmetry, depth, glow, polish, readability.
-
-5. Style adjectives
-5–8 words like: calm, premium, modern, trustworthy, technical, elegant.
-
-6. Negative constraints
-Say what must be avoided: generic AI look, cartoon, extra symbols, over-redesign.
-
-7. Output use case
-Mention web, app icon, SaaS, social, 4K, animation layers, etc.
