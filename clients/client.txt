@@ -1,55 +1,17 @@
-Company Name:
-Syntax Logo Design
+**Premium AI Logo Prompt (Short Format)**
 
-Industry:
-Software Development & IT Solutions
+**Company Name:** CANVASBOARD
+**Industry:** Premium Art Surfaces / Fine Art Materials
+**Target Audience:** Professional artists, painters, art students, hobbyists, creative studios, galleries
+**Style:** Premium Minimalism, Swiss Typography, Heritage Craftsmanship, Editorial, Timeless
+**Colors:** Deep Black, Warm White, Charcoal Gray (optional subtle bronze accent)
+**Symbol:** None — Wordmark Only
+**Typography:** Custom-crafted geometric sans-serif with refined spacing, subtle letter customization, perfect kerning, balanced proportions, premium logotype (not a standard font)
+**Feeling:** Smooth, Precise, Durable, Professional, Trustworthy, Premium, Creative, Refined
+**Background:** Clean white or transparent
+**Restrictions:** No icons, no symbols, no graphics, no script fonts, no decorative elements, no gradients, no shadows, no eco motifs, no textures, flat vector only
 
-Target Audience:
-Businesses, startups, enterprise clients, technology companies, software users, corporate decision-makers, and digital agencies seeking innovative and reliable IT solutions.
+### **AI Prompt (FLUX.1 / SDXL / Midjourney)**
 
-Style:
-Minimalist, Modern, Geometric, Swiss-inspired, Clean, Technology-focused, Professional, Corporate, Flat Vector Design.
+**Design an award-winning premium wordmark logo for "CANVASBOARD", a high-end art board brand. Create a custom typography-only identity with elegant geometric letterforms, flawless kerning, subtle bespoke character modifications, Swiss minimalism, editorial precision, timeless craftsmanship, balanced proportions, and luxurious simplicity. The logotype should communicate smoothness, durability, precision, and professional artistic quality while remaining restrained and memorable. Flat vector style, black and white master version with optional monochrome charcoal variation, transparent background, scalable branding, Fortune 500 quality, no icons, no symbols, no decorative graphics, no gradients, no shadows, no textures, no mockups, ultra-clean, premium, modern, globally recognizable.**
 
-Colors:
-• Electric Blue (#007BFF)
-• Vibrant Orange (#FF6A00)
-• White Background
-• Dark Charcoal (#1E1E1E) for reverse version
-
-Symbol:
-A custom illustrative letter "S" integrated with subtle technology-inspired elements such as circuit lines, code brackets, digital pathways, abstract connections, or futuristic geometric forms. The icon should be unique, balanced, and instantly recognizable while remaining simple enough for small-scale applications.
-
-Typography:
-Modern geometric sans-serif typeface with clean spacing, bold yet elegant, custom letter spacing, premium corporate appearance.
-
-Feeling:
-Innovative, Intelligent, Trustworthy, Modern, Professional, High-Tech, Premium, Clean, Scalable, Future-Ready.
-
-Background:
-Primary version on pure white.
-Secondary reverse version in white on a dark charcoal background.
-
-Restrictions:
-No gradients.
-No shadows.
-No 3D effects.
-No stock icons.
-No AI-generated clipart.
-No unnecessary details.
-Flat vector only.
-Original artwork.
-Scalable for print and digital.
-Must remain recognizable at favicon size.
-Suitable for proposals, websites, mobile apps, social media, business cards, signage, and presentations.
-
-Output:
-• Primary full-color logo on white background
-• Reverse (light-on-dark) logo version
-• Vector source files (.AI & .SVG)
-• white PNG (High Resolution)
-• Black & White version
-• Monochrome version
-• App icon / Favicon version
-• Print-ready vector files
-• Brand color specifications
-• Fully editable layered artwork create logo image 
